@@ -88,7 +88,7 @@ const ContactPage = () => {
                     </form>
             </div>
             <div className="absolute left-5 bottom-5">
-                <Image src="/contact.png" alt="Background" width={250} height={200} />
+                <Image src="./contact.png" alt="Background" width={250} height={200} />
             </div>
         </motion.div>
     

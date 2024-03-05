@@ -14,7 +14,7 @@ const AboutPage = () => {
     <div className="h-full flex flex-col md:flex-row lg:flex-row xl:flex-row items-center justify-center">
         {/* Contenedor de la imagen */}
         <div className="sm:h-1/3 w-2/4 md:w-2/4 lg:1/3 relative overflow-hidden">
-          <Image src="/desk.png" alt="" width={450} height={450}/>
+          <Image src="./desk.png" alt="" width={450} height={450}/>
         </div>
         {/* Contenedor del texto */}
         <div className="h-1/3 md:w-1/2 mr-10 lg:w-1/2 flex flex-col items-center gap-2 mt-10">
